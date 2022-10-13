@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/build
+
+
+# misc
+.DS_Store
+
+# environment
+.env
+
+#
+package-lock.json
+yarn.lock
+yarn-error.log
+
+.openzeppelin
